@@ -29,7 +29,7 @@ crons = ["0 * * * *"]
 
 [vars]
 orm_log = false
-domain = ["11101001.xyz", "nullsecurity.cc"]
+domain = ["nullsecurity.cc", "11101001.xyz"]
 admin = "admin@nullsecurity.cc"
 jwt_secret = "nullsec_mail_jwt_98f438a2c7e1903e"
 
